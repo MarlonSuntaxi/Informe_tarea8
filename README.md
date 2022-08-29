@@ -1313,7 +1313,7 @@ vL2=0v
 
 4.-Video
 
-
+https://youtu.be/IKTxdQGeqAw
 
 5.-Conclusiones
 
@@ -1323,7 +1323,7 @@ Se identificó los números complejos para expresar cantidades fasoriales.
 
 Se determinó la  impedancia y admitancia en un circuito RC y RL en paralelo.
 
-5.-Bibliografía
+6.-Bibliografía
 
 Fogan, A. (25 de Abril de 2019). Electronica online. Obtenido de Electronica online: https://electronicaonline.net/electronica/circuito-rl-funcionamiento-usos/
 Paez, A. (13 de Octubre de 2017). Cidecame. Obtenido de Cidecame: http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro16/28_circuitos_rc_resistencia_en_capasitore.html
